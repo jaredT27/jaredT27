@@ -2,7 +2,7 @@
 
 ### AI automation & growth engineering
 
-I build tools that turn research, public data, and business workflows into useful decisions. My focus is the full path: collect evidence, automate the repeatable work, make the output usable, and measure what happened.
+I build apps & tools that turn research, public data, and business workflows into useful decisions. My focus is the full path: collect evidence, automate the repeatable work, make the output usable, and measure what happened.
 
 I'm interested in **AI automation, solutions engineering, and growth engineering** roles.
 
