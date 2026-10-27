@@ -20,12 +20,12 @@ Also exploring: [SoleOracle](https://github.com/jaredT27/soleoracle), a FastAPI 
 
 ## Selected credentials
 
-| Credential | Issuer | Type |
-| --- | --- | --- |
-| [Claude Certified Architect – Foundations](https://www.credly.com/badges/93868cd4-acd9-4ea2-90f2-bfe5e3535a46) | Anthropic | Certification |
-| [IBM Bob Practitioner Advanced](https://www.credly.com/badges/2cde5e19-de00-4a05-a6f9-831f918470be) | IBM | Advanced validation badge |
-| [watsonx.ai Practitioner Advanced](https://www.credly.com/badges/c37c5be3-a3ab-41e4-9ef1-e3c62d34743d) | IBM | Advanced validation badge |
-| [watsonx.governance Practitioner Advanced](https://www.credly.com/badges/1c848b6c-6e4b-4603-b670-5c8ffd76a524) | IBM | Advanced validation badge |
+| Credential | Issuer |
+| --- | --- |
+| [Claude Certified Architect – Foundations](https://www.credly.com/badges/93868cd4-acd9-4ea2-90f2-bfe5e3535a46) | Anthropic |
+| [IBM Bob Practitioner Advanced](https://www.credly.com/badges/2cde5e19-de00-4a05-a6f9-831f918470be) | IBM |
+| [watsonx.ai Practitioner Advanced](https://www.credly.com/badges/c37c5be3-a3ab-41e4-9ef1-e3c62d34743d) | IBM |
+| [watsonx.governance Practitioner Advanced](https://www.credly.com/badges/1c848b6c-6e4b-4603-b670-5c8ffd76a524) | IBM |
 
 [View my full Credly profile](https://www.credly.com/users/jared-theaman/badges/credly)
 
